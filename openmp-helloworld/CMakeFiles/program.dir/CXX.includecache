@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/josl/Dropbox/Workspaces/c++/openmp-helloworld/src/main.cpp
+iostream
+-
+omp.h
+-
+stdio.h
+-
+

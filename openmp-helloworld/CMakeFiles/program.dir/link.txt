@@ -1,0 +1,1 @@
+/usr/bin/c++    -fopenmp -O3 -DNDEBUG    CMakeFiles/program.dir/main.cpp.o  -o bin/Release/program -rdynamic 
